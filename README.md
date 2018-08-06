@@ -15,4 +15,4 @@ English - ~3500 labelled Tweet Data
 ### English
 ![Chinese illustration](engIllustration.png)
 ## Candidate Architecture
-![Candidate Architecture](cnnModel.png)
+![Candidate Architecture](cnnmc_model.png)
